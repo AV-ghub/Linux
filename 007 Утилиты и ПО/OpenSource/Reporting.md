@@ -6,3 +6,5 @@
 3. **BIRT**: BIRT is an open-source business intelligence (BI) tool that can be used to produce data visualizations and reports that can be incorporated into web applications. The major components are a visual report designer, a runtime component for creating designs, and a charting engine. The platform has over 12 million downloads, and the BIRT Developer Center offers a community center.
 4. **Metabase**: Metabase is a SQL-based interface with a graphical query builder for streaming data (including music streams), security investigations, fraud protection, and onboarding. Many users utilize it for data warehouses, microservices, and even the software development lifecycle.
 5. **Tableau Public**: Tableau Public is a free BI tool that lets users build interactive charts and live dashboards, which they can subsequently publish online, embed on a website, or share on social media. Material can also be tailored for use on a PC, tablet, or smartphone. Tableau also integrates with Google Sheets, and data can be refreshed automatically once a day.
+6. [redash](https://github.com/getredash/redash)
+7. [LinceBI](https://www.lincebi.com/)
